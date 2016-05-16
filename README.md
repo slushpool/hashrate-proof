@@ -2,7 +2,7 @@ Hash Rate Proof Verification
 ----------------------------
 Slush Pool <support@bitcoin.cz>
 
-This is a public script to verify pool hash rate from a proof file.
+This is a script to verify Slush Pool hash rate from a proof files published on https://slushpool.com/stats/hashrate_proof/.
 
 
 Proof file is a zipped text file with line-based jsons (each line is one json). The first line is header - just key-value
